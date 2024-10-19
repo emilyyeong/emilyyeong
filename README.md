@@ -2,7 +2,7 @@
 
 ### 🌟 About me
 
-I'm a final-year computer science student passionate about bringing ideas to life through code **`with a focus on UI/UX`**. I am always down to learn and experiment with something new. If you want to chat or collaborate, connect with me through the socials below ^^
+I'm a final-year computer science student passionate about bringing ideas to life through code **`(with a focus on UI/UX)`**. I am always down to learn and experiment with something new. If you want to chat or collaborate, connect with me through the socials below ^^
 
 <p align="left">
       <a href="https://www.linkedin.com/in/yeong-meng-li/">
